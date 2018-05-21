@@ -1,0 +1,138 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=VN, ST=HCM, L=HCM, O=voduytan, OU=Community, CN=vpnserver.voduytan.me/name=server/emailAddress=voduytan96.vn@gmail.com
+        Validity
+            Not Before: May 21 01:57:12 2018 GMT
+            Not After : May 18 01:57:12 2028 GMT
+        Subject: C=VN, ST=HCM, L=HCM, O=voduytan, OU=Community, CN=client1/name=server/emailAddress=voduytan96.vn@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:d9:db:2c:8f:09:47:d5:e5:cc:af:51:e2:10:1f:
+                    1d:3b:a3:6f:34:f3:18:e3:b7:04:d6:1f:d6:61:ce:
+                    fd:01:19:ad:33:b0:e8:26:45:4a:0c:f5:a8:ff:e3:
+                    a9:34:98:5c:25:90:00:ae:1f:e5:c4:ff:5e:17:c7:
+                    34:bf:c1:21:a1:4f:5b:4f:72:99:fd:9c:87:61:f7:
+                    0f:2c:f6:7d:7a:17:6c:f2:ee:23:ac:52:cc:47:a7:
+                    82:76:1e:c5:9c:76:f9:7c:20:13:69:3b:c3:e9:a7:
+                    09:f9:54:02:e3:63:de:35:eb:b5:92:be:cd:15:0e:
+                    8a:6f:d8:e3:0e:3d:c2:6d:0f:3b:3b:a9:57:e1:f1:
+                    15:1a:9d:cc:bc:64:91:98:cb:58:5f:da:c4:8f:0c:
+                    22:85:8d:cc:a4:45:ac:1f:e6:a5:61:f6:13:7d:ae:
+                    fb:e3:1a:37:92:5f:04:d4:c6:b1:73:34:63:0d:ce:
+                    fa:0b:ba:55:39:2b:34:bb:8a:bb:4b:0b:5f:d1:c1:
+                    82:eb:17:cc:db:f5:c2:80:9a:09:ce:a7:ff:ef:2a:
+                    56:56:27:08:ca:9a:37:6d:03:ee:ce:29:cc:84:e0:
+                    a2:87:39:41:c2:ea:3c:0a:09:28:e1:44:ea:0c:fc:
+                    50:7d:91:73:91:ae:99:2f:1e:2f:a9:f1:27:cf:95:
+                    6a:c8:1d:b6:1c:2b:f3:58:fc:a0:af:76:17:29:e1:
+                    ba:d2:99:c7:6f:80:01:21:a2:82:a4:cc:20:33:fb:
+                    c3:6d:f3:4a:70:66:c5:39:3a:7b:fa:6f:ce:f7:e9:
+                    e7:40:0d:ec:ea:ee:dc:cd:00:67:11:c1:ae:27:17:
+                    2b:34:da:fe:c1:2a:00:33:e5:0c:01:07:f1:90:f0:
+                    e3:22:69:69:ed:df:3c:3b:8a:33:07:56:4e:73:51:
+                    11:d1:0e:99:30:76:06:3b:ff:2f:f7:6a:38:a6:cf:
+                    66:c3:dc:bc:58:ce:1c:5d:82:97:a9:59:94:e2:7c:
+                    09:b9:58:2f:87:ae:27:ad:66:ad:1a:31:96:4f:80:
+                    27:28:0b:de:07:e9:8a:e1:cd:f3:c2:8d:71:9d:27:
+                    b9:59:69:2e:e1:e3:33:ba:63:b1:43:f9:84:66:58:
+                    f2:02:83:a6:4f:31:09:69:07:ef:40:ef:53:a6:68:
+                    57:01:68:03:83:13:aa:b3:03:03:92:2b:d9:01:25:
+                    81:fc:66:ff:fb:ac:04:a0:75:13:bb:3d:22:10:e9:
+                    d9:c9:64:df:35:fa:55:88:23:ff:ad:c2:e3:eb:6d:
+                    e6:80:31:41:00:45:84:45:84:7e:15:5c:2a:0e:5b:
+                    a6:af:a4:1a:a7:11:02:6f:0a:f0:08:e4:cd:c5:42:
+                    83:c7:7d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints:
+                CA:FALSE
+            Netscape Comment:
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier:
+                24:98:BF:70:5A:B8:0D:CC:3F:BD:13:E4:84:3C:BD:B3:0A:37:BE:91
+            X509v3 Authority Key Identifier:
+                keyid:5A:31:99:F2:B7:DD:59:0E:84:4F:7E:D8:CC:D6:9C:E8:04:06:C7:39
+                DirName:/C=VN/ST=HCM/L=HCM/O=voduytan/OU=Community/CN=vpnserver.voduytan.me/name=server/emailAddress=voduytan96.vn@gmail.com
+                serial:BB:91:9E:00:FF:FA:B1:DF
+
+            X509v3 Extended Key Usage:
+                TLS Web Client Authentication
+            X509v3 Key Usage:
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         94:0d:5e:02:22:b6:be:7b:d8:68:d3:7c:a5:76:68:d3:6e:a6:
+         7a:b6:25:d5:96:b7:94:c0:c7:f8:38:1c:9f:36:15:b7:e9:12:
+         5d:24:d4:24:97:05:2f:b0:6b:e3:c2:0c:ad:c0:0e:ea:78:18:
+         37:86:22:3d:31:97:de:88:05:4d:67:c1:38:02:27:92:a1:cb:
+         b7:c9:ed:01:ba:07:0e:d9:2d:1f:df:47:cd:e7:7b:63:61:45:
+         04:9d:f3:bb:25:73:a8:5e:8f:26:41:96:03:8d:69:47:0a:85:
+         a0:57:5f:5a:f3:31:e8:26:09:26:dc:9a:72:0c:f6:fe:d2:e9:
+         14:cb:d0:c5:84:e4:af:69:1c:b9:8c:68:ae:fa:b5:09:a9:77:
+         ee:77:dc:2e:51:25:75:84:10:a2:c7:5e:52:2f:6b:5d:11:d0:
+         99:d8:18:0d:26:0f:63:62:51:e5:3b:a1:ef:45:8f:38:06:39:
+         27:27:c4:b6:b2:32:a3:87:81:b0:c2:7a:d7:75:9f:0c:d4:cb:
+         10:8a:0e:1e:e9:04:8f:e1:8c:74:f0:0a:95:73:66:b3:9f:62:
+         b0:46:76:f7:c9:c5:31:ea:11:db:6e:6b:96:d6:7e:ee:2f:c8:
+         b5:91:0f:3c:0f:6a:1b:37:fa:3e:bc:90:96:4c:65:9a:e8:12:
+         70:87:e8:1b:35:b7:f5:e8:51:c3:c2:63:ce:d5:5a:31:c1:93:
+         ec:c9:52:84:b7:3f:9b:5a:57:5e:8b:58:00:47:a0:4c:bd:61:
+         6f:15:3c:87:8c:0a:fb:a4:c6:37:31:7b:9c:3c:f0:90:d5:96:
+         9a:3e:4b:d9:b8:88:34:a0:15:82:c5:3f:a6:7e:53:46:12:2e:
+         df:c2:4a:e8:63:7f:ba:0c:b2:7d:95:bb:b4:de:51:79:25:cd:
+         9a:2c:46:71:69:9d:53:cc:0e:36:ab:18:20:87:4e:ce:79:da:
+         0c:52:21:3e:fb:da:76:9b:7b:d1:e8:5b:fd:1b:2b:ff:2d:f3:
+         4b:af:fe:fb:b3:3e:d2:f7:cc:c9:c8:c3:fd:43:2d:84:4d:a6:
+         0f:c2:86:4b:d6:1d:34:e4:db:ce:25:ed:f0:c5:43:8c:8f:f2:
+         71:ec:9e:e6:91:fa:8d:71:8a:e0:d9:93:ab:37:ac:a1:c4:fd:
+         83:f6:b0:73:07:0e:7d:66:5d:2f:ed:7d:eb:18:7b:66:3c:bf:
+         af:0f:d1:2d:f3:a9:44:79:9c:1f:3e:44:08:9e:76:9e:89:28:
+         9c:ed:7c:73:3e:3c:c8:0b:3e:a9:35:f4:06:02:b4:e9:6b:f4:
+         26:31:48:36:04:81:db:0c:15:6b:f5:8b:40:64:0e:f5:69:74:
+         ee:7d:88:b8:93:1d:9d:c9
+-----BEGIN CERTIFICATE-----
+MIIHIzCCBQugAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBqTELMAkGA1UEBhMCVk4x
+DDAKBgNVBAgTA0hDTTEMMAoGA1UEBxMDSENNMREwDwYDVQQKEwh2b2R1eXRhbjES
+MBAGA1UECxMJQ29tbXVuaXR5MR4wHAYDVQQDExV2cG5zZXJ2ZXIudm9kdXl0YW4u
+bWUxDzANBgNVBCkTBnNlcnZlcjEmMCQGCSqGSIb3DQEJARYXdm9kdXl0YW45Ni52
+bkBnbWFpbC5jb20wHhcNMTgwNTIxMDE1NzEyWhcNMjgwNTE4MDE1NzEyWjCBmzEL
+MAkGA1UEBhMCVk4xDDAKBgNVBAgTA0hDTTEMMAoGA1UEBxMDSENNMREwDwYDVQQK
+Ewh2b2R1eXRhbjESMBAGA1UECxMJQ29tbXVuaXR5MRAwDgYDVQQDEwdjbGllbnQx
+MQ8wDQYDVQQpEwZzZXJ2ZXIxJjAkBgkqhkiG9w0BCQEWF3ZvZHV5dGFuOTYudm5A
+Z21haWwuY29tMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2dssjwlH
+1eXMr1HiEB8dO6NvNPMY47cE1h/WYc79ARmtM7DoJkVKDPWo/+OpNJhcJZAArh/l
+xP9eF8c0v8EhoU9bT3KZ/ZyHYfcPLPZ9ehds8u4jrFLMR6eCdh7FnHb5fCATaTvD
+6acJ+VQC42PeNeu1kr7NFQ6Kb9jjDj3CbQ87O6lX4fEVGp3MvGSRmMtYX9rEjwwi
+hY3MpEWsH+alYfYTfa774xo3kl8E1MaxczRjDc76C7pVOSs0u4q7Swtf0cGC6xfM
+2/XCgJoJzqf/7ypWVicIypo3bQPuzinMhOCihzlBwuo8Cgko4UTqDPxQfZFzka6Z
+Lx4vqfEnz5VqyB22HCvzWPygr3YXKeG60pnHb4ABIaKCpMwgM/vDbfNKcGbFOTp7
++m/O9+nnQA3s6u7czQBnEcGuJxcrNNr+wSoAM+UMAQfxkPDjImlp7d88O4ozB1ZO
+c1ER0Q6ZMHYGO/8v92o4ps9mw9y8WM4cXYKXqVmU4nwJuVgvh64nrWatGjGWT4An
+KAveB+mK4c3zwo1xnSe5WWku4eMzumOxQ/mEZljyAoOmTzEJaQfvQO9TpmhXAWgD
+gxOqswMDkivZASWB/Gb/+6wEoHUTuz0iEOnZyWTfNfpViCP/rcLj623mgDFBAEWE
+RYR+FVwqDlumr6QapxECbwrwCOTNxUKDx30CAwEAAaOCAWAwggFcMAkGA1UdEwQC
+MAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVyYXRlZCBDZXJ0aWZpY2F0
+ZTAdBgNVHQ4EFgQUJJi/cFq4Dcw/vRPkhDy9swo3vpEwgd4GA1UdIwSB1jCB04AU
+WjGZ8rfdWQ6ET37YzNac6AQGxzmhga+kgawwgakxCzAJBgNVBAYTAlZOMQwwCgYD
+VQQIEwNIQ00xDDAKBgNVBAcTA0hDTTERMA8GA1UEChMIdm9kdXl0YW4xEjAQBgNV
+BAsTCUNvbW11bml0eTEeMBwGA1UEAxMVdnBuc2VydmVyLnZvZHV5dGFuLm1lMQ8w
+DQYDVQQpEwZzZXJ2ZXIxJjAkBgkqhkiG9w0BCQEWF3ZvZHV5dGFuOTYudm5AZ21h
+aWwuY29tggkAu5GeAP/6sd8wEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQD
+AgeAMA0GCSqGSIb3DQEBBQUAA4ICAQCUDV4CIra+e9ho03yldmjTbqZ6tiXVlreU
+wMf4OByfNhW36RJdJNQklwUvsGvjwgytwA7qeBg3hiI9MZfeiAVNZ8E4AieSocu3
+ye0BugcO2S0f30fN53tjYUUEnfO7JXOoXo8mQZYDjWlHCoWgV19a8zHoJgkm3Jpy
+DPb+0ukUy9DFhOSvaRy5jGiu+rUJqXfud9wuUSV1hBCix15SL2tdEdCZ2BgNJg9j
+YlHlO6HvRY84BjknJ8S2sjKjh4GwwnrXdZ8M1MsQig4e6QSP4Yx08AqVc2azn2Kw
+Rnb3ycUx6hHbbmuW1n7uL8i1kQ88D2obN/o+vJCWTGWa6BJwh+gbNbf16FHDwmPO
+1VoxwZPsyVKEtz+bWldei1gAR6BMvWFvFTyHjAr7pMY3MXucPPCQ1ZaaPkvZuIg0
+oBWCxT+mflNGEi7fwkroY3+6DLJ9lbu03lF5Jc2aLEZxaZ1TzA42qxggh07OedoM
+UiE++9p2m3vR6Fv9Gyv/LfNLr/77sz7S98zJyMP9Qy2ETaYPwoZL1h005NvOJe3w
+xUOMj/Jx7J7mkfqNcYrg2ZOrN6yhxP2D9rBzBw59Zl0v7X3rGHtmPL+vD9Et86lE
+eZwfPkQInnaeiSic7XxzPjzICz6pNfQGArTpa/QmMUg2BIHbDBVr9YtAZA71aXTu
+fYi4kx2dyQ==
+-----END CERTIFICATE-----
+
